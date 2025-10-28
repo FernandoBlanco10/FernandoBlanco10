@@ -11,7 +11,6 @@
 - **Bases de Datos SQL y NoSQL:** Diseño, consulta y optimización de estructuras de datos.
 - **Python & PySpark:** Procesamiento y análisis de grandes volúmenes de datos, automatización de tareas.
 - **Jupyter Notebooks:** Documentación interactiva y análisis exploratorio.
-- **Big Data y Cloud:** Experiencia con Spark y Azure Databricks para escalabilidad de pipelines.
 
 ### Desarrollo de Software
 - **Java:** Aplicaciones estructuradas con programación orientada a objetos, buenas prácticas y patrones de diseño.
@@ -21,8 +20,8 @@
 ## 🚀 Sobre Mí
 
 - 🔭 Actualmente estoy trabajando en **proyectos de ingeniería de datos y automatización**.  
-- 🌱 Actualmente estoy aprendiendo **Spark, Azure Databricks y mejores prácticas en pipelines de datos**.  
-- 👯 Busco colaborar en **proyectos de análisis de datos, Big Data y automatización de procesos**.   
+- 🌱 Actualmente estoy certificandome como **Ingeniero de Datos por IBM**.  
+- Busco colaborar en **proyectos de análisis de datos, Big Data y automatización de procesos**.   
 
 ---
 
